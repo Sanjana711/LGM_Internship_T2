@@ -1,4 +1,4 @@
-//<img src="public/rct.jpg" height="450px" width="850px" align="center">//
+<img src="public\My_Page.png" height="450px" width="850px" align="center">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
